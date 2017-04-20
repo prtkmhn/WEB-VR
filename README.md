@@ -1,4 +1,5 @@
 # WEB-VR
+OPEN IN LOCALHOST SERVER
 a web vr application with multiple pages and 360 format for desktop
 
 some images of the 360 scope
